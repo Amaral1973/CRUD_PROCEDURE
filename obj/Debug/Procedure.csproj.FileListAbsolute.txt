@@ -1,0 +1,12 @@
+C:\Programas\Procedure\bin\Debug\Procedure.exe.config
+C:\Programas\Procedure\bin\Debug\Procedure.exe
+C:\Programas\Procedure\bin\Debug\Procedure.pdb
+C:\Programas\Procedure\obj\Debug\Procedure.csproj.AssemblyReference.cache
+C:\Programas\Procedure\obj\Debug\Procedure.Form1.resources
+C:\Programas\Procedure\obj\Debug\Procedure.Properties.Resources.resources
+C:\Programas\Procedure\obj\Debug\Procedure.csproj.GenerateResource.cache
+C:\Programas\Procedure\obj\Debug\Procedure.csproj.CoreCompileInputs.cache
+C:\Programas\Procedure\obj\Debug\Procedure.exe
+C:\Programas\Procedure\obj\Debug\Procedure.pdb
+C:\Programas\Procedure\bin\Debug\DbProcedure.mdf
+C:\Programas\Procedure\bin\Debug\DbProcedure_log.ldf
